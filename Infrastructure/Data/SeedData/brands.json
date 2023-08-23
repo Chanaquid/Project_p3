@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Asus"
+  },
+  {
+    "Id": 2,
+    "Name": "AMD"
+  },
+  {
+    "Id": 3,
+    "Name": "Gigabyte"
+  },
+  {
+    "Id": 4,
+    "Name": "Intel"
+  },
+  {
+    "Id": 5,
+    "Name": "MSI"
+  },
+  {
+    "Id": 6,
+    "Name": "Zotac"
+  }
+]

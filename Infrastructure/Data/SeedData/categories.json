@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "CPU"
+  },
+  {
+    "Id": 2,
+    "Name": "GPU"
+  },
+  {
+    "Id": 3,
+    "Name": "Motherboard"
+  },
+  {
+    "Id": 4,
+    "Name": "RAM"
+  }
+]

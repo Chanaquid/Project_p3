@@ -21,6 +21,7 @@ builder.Services.AddDbContext<StoreContext>(opt => {
 // Registering the ProductRepository with the DI system
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductBrandRepository, ProductBrandRepository>();
 
 var app = builder.Build();
 

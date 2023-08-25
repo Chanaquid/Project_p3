@@ -1,8 +1,8 @@
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Core.Interfaces;
-
-
+using StackExchange.Redis;
+using Infrastructure.Factories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +22,11 @@ builder.Services.AddDbContext<StoreContext>(opt => {
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IProductBrandRepository, ProductBrandRepository>();
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+
+var redisConfig = builder.Configuration.GetConnectionString("Redis");
+builder.Services.AddSingleton<RedisConnectionFactory>(new RedisConnectionFactory(redisConfig));
+
 
 var app = builder.Build();
 
@@ -53,6 +58,8 @@ catch (Exception ex)
     
     logger.LogError(ex, "An error occured during migration");
 }
+
+
 
 
 app.Run();

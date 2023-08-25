@@ -71,3 +71,5 @@ C:\Users\md\Desktop\byteShop\API\bin\Debug\net7.0\Core.dll
 C:\Users\md\Desktop\byteShop\API\bin\Debug\net7.0\Infrastructure.dll
 C:\Users\md\Desktop\byteShop\API\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\md\Desktop\byteShop\API\bin\Debug\net7.0\Core.pdb
+C:\Users\md\Desktop\byteShop\API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\md\Desktop\byteShop\API\bin\Debug\net7.0\StackExchange.Redis.dll

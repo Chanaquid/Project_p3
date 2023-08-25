@@ -13,7 +13,6 @@ namespace Core.Entities
         public string Email{get; set;}
         public string FullName {get; set;}
         public bool IsAdmin{get; set;} = false;
-        public Cart Cart{get; set;}
         public ICollection<Order> Orders{get; set;}
     }
     

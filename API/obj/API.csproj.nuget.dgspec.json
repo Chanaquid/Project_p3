@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\byteShop\\API\\API.csproj": {}
+    "H:\\byteShop\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\byteShop\\API\\API.csproj": {
+    "H:\\byteShop\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\byteShop\\API\\API.csproj",
+        "projectUniqueName": "H:\\byteShop\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projects\\byteShop\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\danko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\byteShop\\API\\obj\\",
+        "projectPath": "H:\\byteShop\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
+        "outputPath": "H:\\byteShop\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\byteShop\\Core\\Core.csproj": {
-                "projectPath": "D:\\Projects\\byteShop\\Core\\Core.csproj"
+              "H:\\byteShop\\Core\\Core.csproj": {
+                "projectPath": "H:\\byteShop\\Core\\Core.csproj"
               },
-              "D:\\Projects\\byteShop\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Projects\\byteShop\\Infrastructure\\Infrastructure.csproj"
+              "H:\\byteShop\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "H:\\byteShop\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -109,24 +109,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\byteShop\\Core\\Core.csproj": {
+    "H:\\byteShop\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\byteShop\\Core\\Core.csproj",
+        "projectUniqueName": "H:\\byteShop\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Projects\\byteShop\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\danko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\byteShop\\Core\\obj\\",
+        "projectPath": "H:\\byteShop\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
+        "outputPath": "H:\\byteShop\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -178,24 +178,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\byteShop\\Infrastructure\\Infrastructure.csproj": {
+    "H:\\byteShop\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\byteShop\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "H:\\byteShop\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Projects\\byteShop\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\danko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\byteShop\\Infrastructure\\obj\\",
+        "projectPath": "H:\\byteShop\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\cj\\.nuget\\packages\\",
+        "outputPath": "H:\\byteShop\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -210,8 +210,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\byteShop\\Core\\Core.csproj": {
-                "projectPath": "D:\\Projects\\byteShop\\Core\\Core.csproj"
+              "H:\\byteShop\\Core\\Core.csproj": {
+                "projectPath": "H:\\byteShop\\Core\\Core.csproj"
               }
             }
           }
@@ -263,7 +263,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
